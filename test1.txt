@@ -1,0 +1,10 @@
+ Le volume dans le lecteur C n'a pas de nom.
+ Le num‚ro de s‚rie du volume est F64C-0E97
+
+ R‚pertoire de C:\Users\asma\Desktop\my project
+
+07/12/2020  21:22    <DIR>          .
+07/12/2020  21:22    <DIR>          ..
+07/12/2020  21:24                 0 test1.txt
+               1 fichier(s)                0 octets
+               2 R‚p(s)  449ÿ875ÿ439ÿ616 octets libres
